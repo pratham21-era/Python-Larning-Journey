@@ -30,13 +30,19 @@ Here are some of the Python concepts I'm currently exploring:
 - Exception Handling
 
 ## 🚀 My Projects
+## 🚀 My Projects
 
-I'll keep adding my practice programs and projects as I learn new concepts.
+Here are the Python projects I have built while learning and improving my programming skills.
 
 | No. | Project Name | Description | Language |
 |---|---|---|---|
-| 1 | More Coming Soon! | Excited to add my upcoming Python projects here. | Python |
+| 1 | ATM Simulation | A simple ATM program that allows users to check their account balance and withdraw money using account details and a PIN. | Python |
+| 2 | EKart | A basic e-commerce project developed using Python. | Python |
+| 3 | Calculator | A function-based calculator that performs arithmetic operations and allows users to continue calculations until they choose to exit. | Python |
+| 4 | TB Education System | An educational project that uses if-else statements to demonstrate symptom-based and TB-stage-based information. Not intended for real medical treatment or prescriptions. | Python |
+| 5 | Student Note Manager | A student note management program that uses Python file handling operations such as read (`r`), write (`w`), and append (`a`) modes. | Python |
 
+I'll continue adding more projects as I learn new Python concepts and improve my programming skills. 🚀
 ## 🛠️ Tools I Use
 
 - **Python 3** – For writing and running programs.
